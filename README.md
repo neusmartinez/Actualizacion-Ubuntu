@@ -34,6 +34,7 @@
 2. Dentro de "Settings", buscamos la opción "Language and Region" y seleccionamos el idioma español.
 ![Actualización7](https://github.com/neusmartinez/Actualizacion-Ubuntu/blob/main/ACTUALIZAR_UBUNTU_7.png)
 
+
 ## Proceso de actualización desde la linea de comandos
 
 1. En el escritorio de Ubuntu, vamos a la terminal haciendo clic en el icono del terminal en el panel o simplemente pulsando Ctrl+Alt+T.
