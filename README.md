@@ -6,7 +6,7 @@
 ![Actualización1](https://github.com/neusmartinez/Actualizacion-Ubuntu/blob/main/ACTUALIZAR_UBUNTU_1.png)
 
 
-2. Ponemos nombre a la máquina virtual, le configuramos una memoria base de 4096 MB.
+2. Configuramos a la máquina virtual una memoria base de 4096 MB.
 ![Actualización2](https://github.com/neusmartinez/Actualizacion-Ubuntu/blob/main/ACTUALIZAR_UBUNTU_2.png)
 
 
