@@ -2,7 +2,7 @@
 
 ## Proceso de instalación de la máquina virtual de Ubuntu 22.04
 
-1. Descargamos desde la página de [Osboxes](https://www.osboxes.org/ubuntu/) el Ubuntu 22.04. Un vez instalado, abrimos VirtualBox y le damos a la opción "Crear" y le ponemos un nombre a la máquina, en este caso "Ubuntu 2".
+1. Descargamos desde la página de [Osboxes](https://www.osboxes.org/ubuntu/) el Ubuntu 22.04. Un vez instalado, abrimos VirtualBox, le damos a la opción "Crear" y le ponemos un nombre a la máquina, en este caso "Ubuntu 2".
 ![Actualización1](https://github.com/neusmartinez/Actualizacion-Ubuntu/blob/main/ACTUALIZAR_UBUNTU_1.png)
 
 
